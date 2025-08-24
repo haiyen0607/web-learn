@@ -1,1 +1,19 @@
 /* Write your code here: */
+h1, h2{
+    color: #a523a7
+}
+.box p{
+    color: red;
+}
+
+.list{
+    color: blue;
+}
+
+.box .done{
+    color: green;
+}
+
+ul p{
+    font-size: 10px;
+}
